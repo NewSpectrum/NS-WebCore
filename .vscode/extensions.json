@@ -1,6 +1,11 @@
 {
 	"recommendations": [
 		"bierner.github-markdown-preview",
-		"aaron-bond.better-comments"
+		"aaron-bond.better-comments",
+		"ldez.ignore-files",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"royaction.color-manager",
+		"mgmcdermott.vscode-language-babel"
 	]
 }
